@@ -1,0 +1,57 @@
+.bake {
+  border: 3px solid #CB8672;
+  padding: 20px;
+  margin: 25px;
+}
+
+.ovrview {
+  border: 3px solid #93A6B4;
+  padding: 20px;
+  margin: 25px;
+}
+
+.howto {
+  border: 5px solid #E7C57E;
+  padding: 23px;
+  margin: 22px;
+}
+
+#whydo {
+  padding: 20px;
+  border: 1px solid #88C0D0;
+}
+
+.imgcnormalelement {
+  border: 3px solid #93A6B4;
+  padding: 10px;
+  margin: 30px;
+}
+
+.imagwidetall {
+  border: 5px solid #93A6B4;
+  padding: 20px;
+  margin: 25px;
+  width: 300px;
+  height: 150px;
+}
+
+.imagescard {
+  border: 5px solid #93A6B4;
+  padding: 20px;
+  margin: 25px;
+  border-radius: 20px;
+}
+
+.flatcookiepill {
+  border: 5px solid #93A6B4;
+  padding: 20px;
+  margin: 25px;
+  border-radius: 40px;
+  height: 20px;
+}
+
+article {
+  border: 2px dashed #9A84CD;
+  margin: 15px;
+  padding: 15px;
+}
